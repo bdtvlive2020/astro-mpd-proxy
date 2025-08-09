@@ -7,10 +7,7 @@
     }
   ],
   "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.php"
-    }
+    { "src": "/(.*)", "dest": "/index.php" }
   ],
   "regions": ["sin1"]
 }
