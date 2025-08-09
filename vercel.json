@@ -9,8 +9,9 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/index.php?get=$1"
+      "dest": "/index.php"
     }
   ],
   "regions": ["sin1"]
 }
+
