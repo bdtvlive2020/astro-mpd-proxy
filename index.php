@@ -1,6 +1,6 @@
 <?php
 $get = $_GET['get'];
-$mpdUrl = 'https://linearjitp-playback.astro.com.my/dash-wv/linear/' . $get;
+$mpdUrl = 'https://jiotvmblive.cdn.jio.com/bpk-tv/Jalsha_Movies_BTS/' . $get;
 
 $mpdheads = [
   'http' => [
