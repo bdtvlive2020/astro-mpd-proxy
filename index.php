@@ -1,5 +1,4 @@
 <?php
-var_dump($_GET); // শুধু টেস্টের জন্য
+print_r($_GET);
 exit;
-?>
 
